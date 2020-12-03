@@ -16,7 +16,7 @@ An app that allows you to track and log your workouts. You are able to log multi
 * [Questions](#questions)
 
 ## Installation
-Must have a MongoDB.
+Must have a MongoDB and have node installed.
 
 ## Usage
 There are a few bugs with the code currently. You can add a new workout but it does not create the new workout/exercise in the database.
@@ -28,10 +28,10 @@ HTML, CSS, Bootstrap, Express, Javascript, Mongoose, and MongoDB.
 This project it open to suggestions and contributions.
 
 ## Tests
-Testing framework used: N/A.
+Testing framework used: Run node seeders/seed.js to seed app.
 
 ## Deployed
-Link to the deployed app: 
+Link to the deployed app: https://ancient-fortress-62454.herokuapp.com/. 
 
 ## Questions
 GitHub Profile: https://github.com/amyventura. 
