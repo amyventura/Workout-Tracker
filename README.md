@@ -31,7 +31,7 @@ This project it open to suggestions and contributions.
 Testing framework used: Run node seeders/seed.js to seed app.
 
 ## Deployed
-Link to the deployed app: https://ancient-fortress-62454.herokuapp.com/. 
+Link to the deployed app: https://ancient-fortress-62454.herokuapp.com/.
 
 ## Questions
 GitHub Profile: https://github.com/amyventura. 
