@@ -31,7 +31,7 @@ This project it open to suggestions and contributions.
 Testing framework used: N/A.
 
 ## Deployed
-Link to the deployed app: 
+Link to the deployed app: https://ancient-fortress-62454.herokuapp.com/.
 
 ## Questions
 GitHub Profile: https://github.com/amyventura. 
