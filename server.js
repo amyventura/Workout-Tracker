@@ -23,7 +23,8 @@ app.use(express.static("public"));
 //     client.close();
 // });
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
+
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/ancient-fortress-62454", {
     useNewUrlParser: true,
     useFindAndModify: false,
     useUnifiedTopology: true,
