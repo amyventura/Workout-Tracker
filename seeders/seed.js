@@ -1,17 +1,6 @@
 let mongoose = require("mongoose");
 let db = require("../models/workout");
 
-const MongoClient = require('mongodb').MongoClient;
-const uri = "mongodb+srv://amyvntr:Irocks17@cluster0.gyzzr.mongodb.net/workout?retryWrites=true&w=majority";
-const client = new MongoClient(uri, {
-    useNewUrlParser: true
-});
-client.connect(err => {
-    const collection = client.db("test").collection("devices");
-    // perform actions on the collection object
-    client.close();
-});
-
 let workoutSeed = [
   {
     day: new Date().setDate(new Date().getDate()-10),
